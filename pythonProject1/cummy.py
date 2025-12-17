@@ -1,3 +1,1 @@
-tesitntg
-tesitntg\
-    asdas
+print("Hello")
